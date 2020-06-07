@@ -22,9 +22,9 @@
 
 <br>
 
-<!-- <p align="center">
-  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
-</p> -->
+<p align="center">
+  <img alt="Ecoleta" src=".github/Capa.png" width="100%">
+</p>
 
 ## :rocket: Tecnologias
 
